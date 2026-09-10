@@ -1,0 +1,16 @@
+﻿periodo,regiao,indicador,faixa_etaria,sexo,quantidade_obitos,filtro_cid10,fonte
+2024,Centro-Oeste,Mortalidade por trauma (causas externas),1 a 12 anos,Total,269,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Centro-Oeste,Mortalidade por trauma (causas externas),1 a 12 anos,Masculino,172,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Centro-Oeste,Mortalidade por trauma (causas externas),1 a 12 anos,Feminino,97,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Nordeste,Mortalidade por trauma (causas externas),1 a 12 anos,Total,712,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Nordeste,Mortalidade por trauma (causas externas),1 a 12 anos,Masculino,442,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Nordeste,Mortalidade por trauma (causas externas),1 a 12 anos,Feminino,270,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Norte,Mortalidade por trauma (causas externas),1 a 12 anos,Total,448,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Norte,Mortalidade por trauma (causas externas),1 a 12 anos,Masculino,296,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Norte,Mortalidade por trauma (causas externas),1 a 12 anos,Feminino,152,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Sudeste,Mortalidade por trauma (causas externas),1 a 12 anos,Total,761,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Sudeste,Mortalidade por trauma (causas externas),1 a 12 anos,Masculino,464,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Sudeste,Mortalidade por trauma (causas externas),1 a 12 anos,Feminino,297,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Sul,Mortalidade por trauma (causas externas),1 a 12 anos,Total,335,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Sul,Mortalidade por trauma (causas externas),1 a 12 anos,Masculino,212,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+2024,Sul,Mortalidade por trauma (causas externas),1 a 12 anos,Feminino,122,V01-Y98 (Cap. XX CID-10 - Causas externas),SIM/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/

@@ -1,0 +1,11 @@
+﻿periodo,competencia,regiao,indicador,medida,quantidade_leitos,filtro_codleito,fonte
+2024,2412,Centro-Oeste,Leitos de UTI Pediatrica,Leitos existentes,617,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Centro-Oeste,Leitos de UTI Pediatrica,Leitos disponiveis ao SUS,328,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Nordeste,Leitos de UTI Pediatrica,Leitos existentes,1406,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Nordeste,Leitos de UTI Pediatrica,Leitos disponiveis ao SUS,796,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Norte,Leitos de UTI Pediatrica,Leitos existentes,485,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Norte,Leitos de UTI Pediatrica,Leitos disponiveis ao SUS,331,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Sudeste,Leitos de UTI Pediatrica,Leitos existentes,3024,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Sudeste,Leitos de UTI Pediatrica,Leitos disponiveis ao SUS,1454,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Sul,Leitos de UTI Pediatrica,Leitos existentes,795,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/
+2024,2412,Sul,Leitos de UTI Pediatrica,Leitos disponiveis ao SUS,529,78 (UTI Pediatrica Tipo II) e 79 (UTI Pediatrica Tipo III),CNES/DATASUS - ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/LT/

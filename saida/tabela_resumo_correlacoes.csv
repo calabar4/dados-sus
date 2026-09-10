@@ -1,0 +1,7 @@
+﻿desfecho,medida_leito,nivel,r,p_valor,significativo_5pct
+Trauma (1-12 anos),Leitos existentes,Estado (n=27),-0.188,0.348,False
+Trauma (1-12 anos),Leitos SUS,Estado (n=27),0.049,0.809,False
+Sepse - causa basica A40/A41,Leitos existentes,Estado (n=27),0.067,0.741,False
+Sepse - causa basica A40/A41,Leitos SUS,Estado (n=27),-0.33,0.092,False
+Sepse - mencionada em qualquer linha,Leitos existentes,Estado (n=27),-0.105,0.601,False
+Sepse - mencionada em qualquer linha,Leitos SUS,Estado (n=27),-0.199,0.32,False
